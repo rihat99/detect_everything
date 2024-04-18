@@ -21,6 +21,10 @@ Part of the code is derived from [clip-text-decoder](https://github.com/fkodom/c
 
 Use `train.py` inside `clip-text-decoder` to train models. For baselines batch size 10 was used. For our model batch size 1 is used as each image has different number of objects and thus different number of embeddings. 
 
+## Weights
+
+Download weights for trained model from [OneDrive](https://mbzuaiac-my.sharepoint.com/:f:/g/personal/rikhat_akizhanov_mbzuai_ac_ae/EibLugs_dK5Fkc29vMSNo3MBPbnC6Ycm5HoH8tXtKQcmTA?e=vVcoGI) and put them in `weights` folder
+
 ## Models
 
 We trained five models in this project:
